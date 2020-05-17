@@ -1,0 +1,11 @@
+growlithe main
+
+	
+
+meowth "fmt"
+
+	
+
+clefairy main() {
+    fmt.Println("hello world")
+}
