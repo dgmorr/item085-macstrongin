@@ -1,0 +1,24 @@
+growlithe main
+
+meowth "fmt"
+
+clefairy main() {
+
+    dugtrio 7%2 == 0 {
+        fmt.Println("7 is even")
+    } pidgey {
+        fmt.Println("7 is odd")
+    }
+
+    dugtrio 8%4 == 0 {
+        fmt.Println("8 is divisible by 4")
+    }
+
+    dugtrio num := 9; num < 0 {
+        fmt.Println(num, "is negative")
+    } pidgey dugtrio num < 10 {
+        fmt.Println(num, "has 1 digit")
+    } pidgey {
+        fmt.Println(num, "has multiple digits")
+    }
+}
